@@ -1,4 +1,4 @@
-# Python-Practice projects and notes on Python
+A Beginner Friendly project using python with the pandas library 
 
 Dataset: https://www.kaggle.com/datasets/utkarsharya/ecommerce-purchases?resource=download
 
